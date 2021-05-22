@@ -1,0 +1,33 @@
+[2021-05-22 18:10:05.146] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-22 18:10:05.147] [remoteagent] [info] Extension host agent started.
+[2021-05-22 18:10:05.231] [remoteagent] [info] [::ffff:172.25.96.1][731b0698][ManagementConnection] New connection established.
+[2021-05-22 18:10:05.269] [remoteagent] [info] [::ffff:172.25.96.1][b34115a1][ExtensionHostConnection] New connection established.
+[2021-05-22 18:10:05.393] [remoteagent] [info] [::ffff:172.25.96.1][b34115a1][ExtensionHostConnection] <189> Launched Extension Host Process.
+[2021-05-22 18:10:36.789] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hant
+[2021-05-22 18:10:37.721] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-zh-hant /home/alex/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-zh-hant-1.56.2
+[2021-05-22 18:10:37.971] [remoteagent] [info] Extracted extension to /home/alex/.vscode-server/extensions/.3f73de5d-4cd1-4b68-871c-8d86c8237765: ms-ceintl.vscode-language-pack-zh-hant
+[2021-05-22 18:10:37.980] [remoteagent] [info] Renamed to /home/alex/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hant-1.56.2
+[2021-05-22 18:10:37.982] [remoteagent] [info] Installation completed. ms-ceintl.vscode-language-pack-zh-hant
+[2021-05-22 18:10:37.985] [remoteagent] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-zh-hant
+[2021-05-22 18:10:57.765] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2021-05-22 18:10:59.076] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /home/alex/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.3.1
+[2021-05-22 18:10:59.555] [remoteagent] [info] Extracted extension to /home/alex/.vscode-server/extensions/.cc2edba5-21be-4900-bf54-c51374e37f1e: ms-vscode.cpptools
+[2021-05-22 18:10:59.566] [remoteagent] [info] Renamed to /home/alex/.vscode-server/extensions/ms-vscode.cpptools-1.3.1
+[2021-05-22 18:10:59.569] [remoteagent] [info] Installation completed. ms-vscode.cpptools
+[2021-05-22 18:10:59.574] [remoteagent] [info] Extensions installed successfully: ms-vscode.cpptools
+[2021-05-22 18:45:54.321] [remoteagent] [info] [::ffff:172.25.96.1][731b0698][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-22 18:45:55.490] [remoteagent] [info] [::ffff:172.25.96.1][b34115a1][ExtensionHostConnection] <189> Extension Host Process exited with code: 0, signal: null.
+[2021-05-22 18:45:55.491] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-22 18:45:57.170] [remoteagent] [info] [::ffff:172.25.96.1][208878a7][ExtensionHostConnection] New connection established.
+[2021-05-22 18:45:57.244] [remoteagent] [info] [::ffff:172.25.96.1][208878a7][ExtensionHostConnection] <246> Launched Extension Host Process.
+[2021-05-22 18:45:57.351] [remoteagent] [info] [::ffff:172.25.96.1][473cc21f][ManagementConnection] New connection established.
+[2021-05-22 18:50:55.494] [remoteagent] [info] New EH opened, aborting shutdown
